@@ -1,1 +1,1 @@
-aaa
+RUN echo "Hello docker!"
