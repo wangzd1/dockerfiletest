@@ -1,3 +1,3 @@
-FROM ubuntu
+FROM scratch
 MAINTAINER wang_
-RUN echo "Hello docker!"
+RUN echo "Hello scratch!"
