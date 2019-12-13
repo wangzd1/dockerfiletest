@@ -1,3 +1,2 @@
-FROM ubuntu
-MAINTAINER wang_
-RUN echo "Hello scratch!"
+FROM nginx:1.17.6
+MAINTAINER wang_web
